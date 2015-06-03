@@ -1,0 +1,12 @@
+{
+  "name": "testing101",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Emilio <erix@jsjutsu.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^2.3.0",
+    "sinon": "^1.14.1"
+  }
+}
